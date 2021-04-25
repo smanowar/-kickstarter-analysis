@@ -11,9 +11,9 @@ The purpose of this analysis is to observe the effect of different variables, in
 ### Analysis of Outcomes Based on Launch Date
 To see the relationship between launch date of various theatre projects affect their outcome we have modeled the data in the graph below: 
 
-
-![OutcomesBasedOnLaunch](https://github.com/smanowar/-kickstarter-analysis/blob/main/theatre_outcomes_vs_launch.png)
-
+<p align="center">
+<img src=https://github.com/smanowar/-kickstarter-analysis/blob/main/theatre_outcomes_vs_launch.png>
+</p>
 
 With the month of the year on the x-axis and number of productions on the y-axis, our graph is comprised of theatre projects from various countries around the world from 2009-2017
 Initially looking at the graph we can see that regardless of launch date the number of successful plays is greater than the number of cancelled plays and the number of failed plays. 
@@ -24,10 +24,12 @@ We can also note that from the graph we see that the number of cancelled plays i
 ### Analysis of Outcomes Based on Goals
 To see the relationship between the goals set by plays and their overall outcome we have modeled the data in the graph below: 
 
-![OutcomesBasedOnOutcome](https://github.com/smanowar/-kickstarter-analysis/blob/main/outcomes_vs_goals.png)
+<p align="center">
+<img src = https://github.com/smanowar/-kickstarter-analysis/blob/main/outcomes_vs_goals.png>
+</p>
 
 With the range of the goal set on the x-axis and the percentage of the outcome on the y-axis, our graph is comprised of plays from various countries around the world from 2009-2017.
-It is important to note that our data showed there were no plays cancelled (see yellow line on graph), so our analysis will focus only on successful and failed plays.
+It is important to note that our data showed there were no plays cancelled - see yellow line on graph, so our analysis will focus only on successful plays and failed plays.
 Based on the graph we can see that the percentage of successful plays fluctuates based on the goal. Less than $1000 we see the success rate of plays at a high of 80%, which gradually begins to drop until the range of $25000 to $29999. It then spikes back up between the range of $35000 to $44999 and then drops significantly in the range of $45000 to $50000 at a success rate of 0%.
 As the success rate fluctuates, the percentage failed must as well. We see that with goals less than $1000, the percentage of failed productions is only 25%, which gradually begins to increase to 80% in the range of $25000 to $29999. The percentage of failed productions then begins to drop to 34% in the range of $35000 to $44999 and spikes to 100% for goals in the range of $45000 to $50000.
 
