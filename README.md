@@ -11,7 +11,9 @@ The purpose of this analysis is to observe the effect of different variables, in
 ### Analysis of Outcomes Based on Launch Date
 To see the relationship between launch date of various theatre projects affect their outcome we have modeled the data in the graph below: 
 
-![OutcomesBasedOnLaunchDate](***)
+
+![OutcomesBasedOnLaunch](https://github.com/smanowar/-kickstarter-analysis/blob/main/theatre_outcomes_vs_launch.png)
+
 
 With the month of the year on the x-axis and number of productions on the y-axis, our graph is comprised of theatre projects from various countries around the world from 2009-2017
 Initially looking at the graph we can see that regardless of launch date the number of successful plays is greater than the number of cancelled plays and the number of failed plays. 
@@ -22,7 +24,7 @@ We can also note that from the graph we see that the number of cancelled plays i
 ### Analysis of Outcomes Based on Goals
 To see the relationship between the goals set by plays and their overall outcome we have modeled the data in the graph below: 
 
-![OutcomesBasedOnGoals](***)
+![OutcomesBasedOnOutcome](https://github.com/smanowar/-kickstarter-analysis/blob/main/outcomes_vs_goals.png)
 
 With the range of the goal set on the x-axis and the percentage of the outcome on the y-axis, our graph is comprised of plays from various countries around the world from 2009-2017.
 It is important to note that our data showed there were no plays cancelled (see yellow line on graph), so our analysis will focus only on successful and failed plays.
