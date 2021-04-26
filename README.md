@@ -34,7 +34,7 @@ Based on the graph we can see that the percentage of successful plays fluctuates
 As the success rate fluctuates, the percentage failed must as well. We see that with goals less than $1000, the percentage of failed productions is only 25%, which gradually begins to increase to 80% in the range of $25000 to $29999. The percentage of failed productions then begins to drop to 34% in the range of $35000 to $44999 and spikes to 100% for goals in the range of $45000 to $50000.
 
 ### Challenges and Difficulties Encountered
-****
+A challenge encountered was creating and modifying the pivot charts on Excel to create the graphs used for modeling the required data. Guidance from the Module 1 Challenge instructions was very helpful in creating the charts. Using pivot charts more frequently will allow me to become more comfortable with them for future use.
 
 ## Results
 
