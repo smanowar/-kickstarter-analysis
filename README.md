@@ -4,7 +4,7 @@
 
 ### Purpose
 
-The purpose of this analysis is to observe the effect of different variables, in particular the Launch Date and the Goal, and their impact on the outcomes on various theatre projects worldwide.
+The purpose of this analysis is to observe the effect of different variables, in particular the Launch Date and the Goal, and their impact on the outcomes of various theatre projects based on data compiled from 2009 to 2019 from various theatre productions worldwide
 
 ## Analysis and Challenges
 
